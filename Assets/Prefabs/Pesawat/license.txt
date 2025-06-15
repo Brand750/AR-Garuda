@@ -1,0 +1,11 @@
+Model Information:
+* title:	AIRBUS A320 (Indonesian Presidential Livery)
+* source:	https://sketchfab.com/3d-models/airbus-a320-indonesian-presidential-livery-548d038ab9774d079d8d4e7e560a69bd
+* author:	drcrazzie (https://sketchfab.com/drcrazzie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AIRBUS A320 (Indonesian Presidential Livery)" (https://sketchfab.com/3d-models/airbus-a320-indonesian-presidential-livery-548d038ab9774d079d8d4e7e560a69bd) by drcrazzie (https://sketchfab.com/drcrazzie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
