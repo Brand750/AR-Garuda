@@ -19,8 +19,8 @@ AR-Garuda/
 
 1. **Scripts Utama** - Buka folder `Assets/Scripts/`:
    - **Image Tracking**: Script untuk deteksi marker
-   - **UI Interface**: Script untuk tampilan interface
-   - **Rotate Image**: Script untuk animasi rotasi model
+   - **Info Screen Manager**: Script untuk tampilan interface
+   - **Rotate Object**: Script untuk animasi rotasi model
 
 2. **Marker Setup** - Cek folder `Assets/Prefabs/`:
    - Berisi konfigurasi marker 1, 2, 3, 4
